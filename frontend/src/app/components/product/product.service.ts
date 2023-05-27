@@ -8,7 +8,7 @@ import { catchError, EMPTY, Observable } from "rxjs";
   providedIn: "root",
 })
 export class ProductService {
-  baseUrl: string = "http://localhost:3001/products";
+  baseUrl: string = "https://my-json-server.typicode.com/LeandroLaureanoD/db-crud-produtos/products";
 
   constructor(private snackBar: MatSnackBar, private http: HttpClient) {}
 
