@@ -24,6 +24,11 @@
       "id": 5,
       "name": "teste1",
       "price": "100"
+    },
+    {
+      "id": 6,
+      "name": "laureano.duraes",
+      "price": "2"
     }
   ]
 }
